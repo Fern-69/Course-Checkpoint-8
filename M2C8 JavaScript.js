@@ -4,6 +4,7 @@ while (i < miLista.length) {
     console.log(`Elemento en el índice ${i}: ${miLista[i]}`);
     i++;
 }
+console.log("------------------------------------------------");
 
 for (let i = 0; i < miLista.length; i++) {
     console.log(`Elemento en el índice ${i}: ${miLista[i]}`);
